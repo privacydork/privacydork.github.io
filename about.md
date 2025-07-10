@@ -1,9 +1,81 @@
 ---
 layout: page
-title: About
+title: About/Contact
 permalink: /about/
 ---
 
 This collection of posts and pages intends to help people access the internet freely, no more, no less. Everybody deserves free access to information, regardless of what kind of censorship or threats they may be enduring. People also deserve to be able to communicate with each other privately and openly, regardless of the topic. Whether you're a whistleblower, living under a tyrannical regime and curious about "unapproved" religions, or just a regular person who wants to reclaim their privacy, the goal of these writings is to give you the tools you need to participate on the internet with the highest possible degree of privacy.
 
 It's up to you to use this information responsibly. The information shared on this site is for your education. What you do with your newly found privacy is up to you, and the consequences of being caught are yours alone. Be safe out there!
+
+# Contact
+Email: [privacydork@proton.me](mailto:privacydork@proton.me)
+
+PGP Key:
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+uAnZ69o=
+=BYf7
+-----END PGP PUBLIC KEY BLOCK-----
+```
