@@ -3,8 +3,6 @@ layout: post
 title: When you're worried about your post history
 ---
 
-# When you're worried about your post history...
-
 We've all left trails online. Tweets (or, posts now), forum posts, throwaway comments, blurry photos... The internet is a scrapbook we never agreed to curate. With governments pushing digital IDs and tightening surveillance, the rist isn't just that your old content exists. It's that it can be weaponized against you.
 
 Maybe your area of the world isn't looking at digital IDs (yet). That doesn't mean your online history can't still impact your life. Imagine a scenario where you apply for a job, the HR person searches online from your name, and finds something they don't like that you posted in 2018.
