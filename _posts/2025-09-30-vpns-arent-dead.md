@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VPNs Aren't Dead: A Smarter Survival Guide
+title: VPNs Aren't Dead - A Smarter Survival Guide
 ---
 
 Misguided and tyrannical beaureaucrats are trying to make you prove who you are just to look at ordinary things online. Your knee-jerk reaction might be "use a VPN". That's not wrong, it's just naive. VPNs can still work, but only if you understand which ones, why, and how to use them without handing your privacy to some free service or sacrificing your operational security.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Own the Library: Mirrors, IPFS, ZIMs & Offline Copies
+title: Own the Library - Mirrors, IPFS, ZIMs & Offline Copies
 ---
 
 If the state is building fences, your job is to build *replication*. Mirrors, archives, and peer-to-peer distribution aren't romantic technobabble, they're survival. The fewer single points of control for content, the harder it is for a regulator (or a contractor with a checklist) to tell you *you can't read that.*
