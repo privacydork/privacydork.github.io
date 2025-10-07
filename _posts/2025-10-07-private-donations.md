@@ -87,13 +87,15 @@ Privacy coins are privacy tech, not a get-out-of-reporting card. Large donations
 
 `44f...your_monero_address...`
 
+---
+
 **ZEC (Unified address):**
 
 ![ZEC UA QR](path/to/zec-ua-qr.png)
 
 `uai...your_zec_unified_address...`
 
-*Prefer Monero (XMR) for highest donor privacy. Scan this QR code or copy the address below into your wallet. If you would rather use Zcash, use the Unified Address option so funds land shielded by default. Don’t forget to verify the address on this page before sending.*
+*Prefer Monero (XMR) for highest donor privacy. Scan a QR code or copy the address below into your wallet. If you would rather use Zcash, use the Unified Address option so funds land shielded by default. Don’t forget to verify the address on this page before sending.*
 ```
 
 # Here's how it looks (donate if you'd like, no pressure)
@@ -106,10 +108,12 @@ Privacy coins are privacy tech, not a get-out-of-reporting card. Large donations
 
 `85fb2JGnS6N25c1HepdKf2Z6RCDjWTxDoWEt9PzqG4mTZvVpDNh71rn54gwGaqVpRgKw29Jh9YJ6Z6JT6xN62wKYG13wZaN`
 
+---
+
 **ZEC (Unified address):**
 
 ![ZEC UA QR](/images/zec-ua-qr.png)
 
 `u12swaezg2g20yf34pfac8xcnsr5480y3evzav74u9mcjyvtyl757pwjh6r6nwsu4w8v268jmsgjha874af45cdyufr499vmtqzc7349c2xy8fh3e9c75rewkg574a9h6p9szjygvdmmnq6au0wungg9pjkzycnj0p9jlgyzpvav8j5axx`
 
-*Prefer Monero (XMR) for highest donor privacy. Scan this QR code or copy the address below into your wallet. If you would rather use Zcash, use the Unified Address option so funds land shielded by default. Don’t forget to verify the address on this page before sending.*
+*Prefer Monero (XMR) for highest donor privacy. Scan a QR code or copy the address below into your wallet. If you would rather use Zcash, use the Unified Address option so funds land shielded by default. Don’t forget to verify the address on this page before sending.*
