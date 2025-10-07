@@ -10,7 +10,7 @@ Below: the one-page playbook and exact operational steps I'd use if I were takin
 # TL;DR
 
 - **Best private-first coin:** Monero (XMR). Use the official GUI wallet or a well-audited mobile wallet; verify downloads.
-- ** If you need web-friendly compatibility:** Zcash (ZEC) using **Unified Addresses (UA)** gives shielded-by-default receipts where supported. It's still less private than XMR, but more compatible.
+- **If you need web-friendly compatibility:** Zcash (ZEC) using **Unified Addresses (UA)** gives shielded-by-default receipts where supported. It's still less private than XMR, but more compatible.
 - **UX trick:** Publish a single "donate" page that offers an XMR address + ZEC address and one sentence of guidance. Dont' scatter addresses across the web.
 - **Visibility without keys:** Use a **view-only** Monero wallet RPC to show incoming totals without exposing spend keys.
 
@@ -49,7 +49,7 @@ Below: the one-page playbook and exact operational steps I'd use if I were takin
 
 # How donors should be instructed
 
-You can copy and paste this.
+You can copy and paste this. See below for a full markdown snippet.
 
 > Prefer Monero (XMR) for highest donor privacy. Scan this QR code or copy the address below into your wallet. If you would rather use Zcash, use the Unified Address option so funds land shielded by default. Don't forget to verify the address on this page before sending
 
@@ -82,14 +82,18 @@ Privacy coins are privacy tech, not a get-out-of-reporting card. Large donations
 ## Support PrivacyDork - donate
 
 **Prefer XMR:**
+
 ![XMR QR](path/to/xmr-qr.png)
+
 `44f...your_monero_address...`
 
 **ZEC (Unified address):**
+
 ![ZEC UA QR](path/to/zec-ua-qr.png)
+
 `uai...your_zec_unified_address...`
 
-*Prefer XMR for donor privacy. For transparency, I may publish monthly totals - no donor-identifying info wil ever be disclosed.*
+*Prefer Monero (XMR) for highest donor privacy. Scan this QR code or copy the address below into your wallet. If you would rather use Zcash, use the Unified Address option so funds land shielded by default. Don’t forget to verify the address on this page before sending.*
 ```
 
 # Here's how it looks (donate if you'd like, no pressure)
@@ -97,11 +101,15 @@ Privacy coins are privacy tech, not a get-out-of-reporting card. Large donations
 ## Support PrivacyDork - donate
 
 **Prefer XMR:**
+
 ![XMR QR](/images/xmr-qr.png)
+
 `85fb2JGnS6N25c1HepdKf2Z6RCDjWTxDoWEt9PzqG4mTZvVpDNh71rn54gwGaqVpRgKw29Jh9YJ6Z6JT6xN62wKYG13wZaN`
 
 **ZEC (Unified address):**
+
 ![ZEC UA QR](/images/zec-ua-qr.png)
+
 `u12swaezg2g20yf34pfac8xcnsr5480y3evzav74u9mcjyvtyl757pwjh6r6nwsu4w8v268jmsgjha874af45cdyufr499vmtqzc7349c2xy8fh3e9c75rewkg574a9h6p9szjygvdmmnq6au0wungg9pjkzycnj0p9jlgyzpvav8j5axx`
 
-*Prefer XMR for donor privacy. For transparency, I may publish monthly totals - no donor-identifying info wil ever be disclosed.*
+*Prefer Monero (XMR) for highest donor privacy. Scan this QR code or copy the address below into your wallet. If you would rather use Zcash, use the Unified Address option so funds land shielded by default. Don’t forget to verify the address on this page before sending.*
